@@ -7,8 +7,8 @@ use Mailjet\Resources;
 
 class Mail
 {
-    private $api_key = 'b91b0ae861514d79507714061e411d27';
-    private $api_key_secret = '571c8672f482482d2d7e5a723b622c06';
+    private $api_key = 'YOUR_API_KEYS';
+    private $api_key_secret = 'YOUR_API_SECRET_KEY';
 
     public function send($to_email, $to_name, $subject, $content)
     {
@@ -17,7 +17,7 @@ class Mail
             'Messages' => [
                 [
                     'From' => [
-                        'Email' => "contact@prochainweb.com",
+                        'Email' => "YOUR_EMAIL",
                         'Name' => "La Boutique Française"
                     ],
                     'To' => [
@@ -26,7 +26,7 @@ class Mail
                             'Name' => $to_name
                         ]
                     ],
-                    'TemplateID' => 3635036,
+                    'TemplateID' => YOUR_TEMPLATE_ID,
                     'TemplateLanguage' => true,
                     'Subject' => $subject,
                     "Variables" => [
