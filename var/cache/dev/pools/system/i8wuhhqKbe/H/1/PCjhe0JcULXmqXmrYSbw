@@ -1,0 +1,3 @@
+<?php //CommentCrudController%255CCommentCrudController%2523configureFields
+
+return [PHP_INT_MAX, []];
