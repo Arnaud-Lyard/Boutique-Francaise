@@ -8,12 +8,6 @@ Implantation d'un système d'actualités.
 
 Réalisation d'un système de notation avec gestion des avis clients. L'administrateur doit valider les commentaires pour qu'ils soient publiés sur le site.
 
-# Boutique Française
-
-Création d'une boutique à l'aide du Framework Symfony sur la version 5. Utilisation du moteur de template TWIG pour afficher les vues.
-Gestion d'un catalogue produit avec possibilité de recherche par mot clé ou par catégorie. Création du tunnel de paiement avec Stripe.
-Gestion de l'envoi des mails avec Mailjet. Création d'une interface d'administration avec Easyadmin version 3.
-
 ## Pour commencer
 
 Télécharger le dépôt Git pour initialiser le projet
@@ -38,7 +32,7 @@ Symfony version 5
 
 ### Aides à la réalisation du projet
 
-Projet réalisé avec l'aide du cours Udemy
+Udemy
 https://www.udemy.com/share/103IE83@ZDUGFeA0qnkfYhRjAhcg7Xup3RAEj9pGCMDwWUFK6dyP60sQ2oS-3Etq-xWLDriSWg==/
 
 Et les documentations des technologies utilisées.
