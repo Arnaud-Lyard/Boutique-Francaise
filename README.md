@@ -32,7 +32,6 @@ Symfony version 5
 
 ### Aides à la réalisation du projet
 
-Udemy
 https://www.udemy.com/share/103IE83@ZDUGFeA0qnkfYhRjAhcg7Xup3RAEj9pGCMDwWUFK6dyP60sQ2oS-3Etq-xWLDriSWg==/
 
 Et les documentations des technologies utilisées.
