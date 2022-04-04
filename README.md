@@ -6,7 +6,7 @@ Gestion de l'envoi des mails avec Mailjet. Création d'une interface d'administr
 
 Implantation d'un système d'actualités.
 
-Réalisation d'un système de notation avec gestion des avis clients. L'administrateur doit valider les commentaires pour qu'ils soient publiés sur le site.
+Réalisation d'un système de notation avec gestion des avis clients.
 
 ## Pour commencer
 
