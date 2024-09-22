@@ -1,37 +1,26 @@
 # Boutique-Francaise
+Creation of an online store using the Symfony Framework version 5. Using the TWIG template engine to display views.
+Management of a product catalog with the ability to search by keyword or category.
+Creation of a payment process with Stripe.
+Email handling with Mailjet.
+Creation of an admin interface with Easyadmin version 3.
 
-Création d'une boutique à l'aide du Framework Symfony sur la version 5. Utilisation du moteur de template TWIG pour afficher les vues.
-Gestion d'un catalogue produit avec possibilité de recherche par mot clé ou par catégorie. Création du tunnel de paiement avec Stripe.
-Gestion de l'envoi des mails avec Mailjet. Création d'une interface d'administration avec Easyadmin version 3.
+Implementation of a news system.
 
-Implantation d'un système d'actualités.
+Development of a rating system with customer review management.
 
-Réalisation d'un système de notation avec gestion des avis clients.
+## Getting started
+Download the Git repository to initialize the project.
 
-## Pour commencer
-
-Télécharger le dépôt Git pour initialiser le projet
-
-### Pré-requis
-
-- Composer
-
+### Prerequisites
+Composer
 ### Installation
-
 #### Backend
-Créer une base de données et modifier le fichier .env dans pour qu'il pointe vers la base de données.
-Lancer la commande ``composer install`` pour installer Symfony et les dépendances.
+Create a database and modify the .env file to point to the database.
+Run the command `composer install` to install Symfony and its dependencies.
 
-### Démarrage
+### Starting the Application
+Run the command `symfony serve` to launch Symfony.
 
-Lancer la commande ``symfony serve`` pour lancer Symfony.
-
-### Technologies utilisées
-
+### Technologies Used
 Symfony version 5
-
-### Aides à la réalisation du projet
-
-https://www.udemy.com/share/103IE83@ZDUGFeA0qnkfYhRjAhcg7Xup3RAEj9pGCMDwWUFK6dyP60sQ2oS-3Etq-xWLDriSWg==/
-
-Et les documentations des technologies utilisées.
